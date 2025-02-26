@@ -48,12 +48,20 @@
               "value": "global"
             },
             {
-              "title": "DeepSeek-V3",
+              "title": "DeepSeek-Chat",
               "value": "deepseek-chat"
             },
             {
-              "title": "DeepSeek-R1",
+              "title": "DeepSeek-Reasoner",
               "value": "deepseek-reasoner"
+            },
+            {
+              "title": "DeepSeek-V3",
+              "value": "deepseek-v3"
+            },
+            {
+              "title": "DeepSeek-R1",
+              "value": "deepseek-r1"
             },
             {
               "title": "GPT-4o",
@@ -106,12 +114,20 @@
               "value": "global"
             },
             {
-              "title": "DeepSeek-V3",
+              "title": "DeepSeek-Chat",
               "value": "deepseek-chat"
             },
             {
-              "title": "DeepSeek-R1",
+              "title": "DeepSeek-Reasoner",
               "value": "deepseek-reasoner"
+            },
+            {
+              "title": "DeepSeek-V3",
+              "value": "deepseek-v3"
+            },
+            {
+              "title": "DeepSeek-R1",
+              "value": "deepseek-r1"
             },
             {
               "title": "GPT-4o",
@@ -164,12 +180,20 @@
               "value": "global"
             },
             {
-              "title": "DeepSeek-V3",
+              "title": "DeepSeek-Chat",
               "value": "deepseek-chat"
             },
             {
-              "title": "DeepSeek-R1",
+              "title": "DeepSeek-Reasoner",
               "value": "deepseek-reasoner"
+            },
+            {
+              "title": "DeepSeek-V3",
+              "value": "deepseek-v3"
+            },
+            {
+              "title": "DeepSeek-R1",
+              "value": "deepseek-r1"
             },
             {
               "title": "GPT-4o",
@@ -247,12 +271,20 @@
               "value": "global"
             },
             {
-              "title": "DeepSeek-V3",
+              "title": "DeepSeek-Chat",
               "value": "deepseek-chat"
             },
             {
-              "title": "DeepSeek-R1",
+              "title": "DeepSeek-Reasoner",
               "value": "deepseek-reasoner"
+            },
+            {
+              "title": "DeepSeek-V3",
+              "value": "deepseek-v3"
+            },
+            {
+              "title": "DeepSeek-R1",
+              "value": "deepseek-r1"
             },
             {
               "title": "GPT-4o",
@@ -305,12 +337,20 @@
               "value": "global"
             },
             {
-              "title": "DeepSeek-V3",
+              "title": "DeepSeek-Chat",
               "value": "deepseek-chat"
             },
             {
-              "title": "DeepSeek-R1",
+              "title": "DeepSeek-Reasoner",
               "value": "deepseek-reasoner"
+            },
+            {
+              "title": "DeepSeek-V3",
+              "value": "deepseek-v3"
+            },
+            {
+              "title": "DeepSeek-R1",
+              "value": "deepseek-r1"
             },
             {
               "title": "GPT-4o",
@@ -363,12 +403,20 @@
               "value": "global"
             },
             {
-              "title": "DeepSeek-V3",
+              "title": "DeepSeek-Chat",
               "value": "deepseek-chat"
             },
             {
-              "title": "DeepSeek-R1",
+              "title": "DeepSeek-Reasoner",
               "value": "deepseek-reasoner"
+            },
+            {
+              "title": "DeepSeek-V3",
+              "value": "deepseek-v3"
+            },
+            {
+              "title": "DeepSeek-R1",
+              "value": "deepseek-r1"
             },
             {
               "title": "GPT-4o",
@@ -429,12 +477,20 @@
               "value": "global"
             },
             {
-              "title": "DeepSeek-V3",
+              "title": "DeepSeek-Chat",
               "value": "deepseek-chat"
             },
             {
-              "title": "DeepSeek-R1",
+              "title": "DeepSeek-Reasoner",
               "value": "deepseek-reasoner"
+            },
+            {
+              "title": "DeepSeek-V3",
+              "value": "deepseek-v3"
+            },
+            {
+              "title": "DeepSeek-R1",
+              "value": "deepseek-r1"
             },
             {
               "title": "GPT-4o",
@@ -495,12 +551,20 @@
               "value": "global"
             },
             {
-              "title": "DeepSeek-V3",
+              "title": "DeepSeek-Chat",
               "value": "deepseek-chat"
             },
             {
-              "title": "DeepSeek-R1",
+              "title": "DeepSeek-Reasoner",
               "value": "deepseek-reasoner"
+            },
+            {
+              "title": "DeepSeek-V3",
+              "value": "deepseek-v3"
+            },
+            {
+              "title": "DeepSeek-R1",
+              "value": "deepseek-r1"
             },
             {
               "title": "GPT-4o",
@@ -553,12 +617,20 @@
               "value": "global"
             },
             {
-              "title": "DeepSeek-V3",
+              "title": "DeepSeek-Chat",
               "value": "deepseek-chat"
             },
             {
-              "title": "DeepSeek-R1",
+              "title": "DeepSeek-Reasoner",
               "value": "deepseek-reasoner"
+            },
+            {
+              "title": "DeepSeek-V3",
+              "value": "deepseek-v3"
+            },
+            {
+              "title": "DeepSeek-R1",
+              "value": "deepseek-r1"
             },
             {
               "title": "GPT-4o",
@@ -611,12 +683,20 @@
               "value": "global"
             },
             {
-              "title": "DeepSeek-V3",
+              "title": "DeepSeek-Chat",
               "value": "deepseek-chat"
             },
             {
-              "title": "DeepSeek-R1",
+              "title": "DeepSeek-Reasoner",
               "value": "deepseek-reasoner"
+            },
+            {
+              "title": "DeepSeek-V3",
+              "value": "deepseek-v3"
+            },
+            {
+              "title": "DeepSeek-R1",
+              "value": "deepseek-r1"
             },
             {
               "title": "GPT-4o",
@@ -661,12 +741,20 @@
               "value": "global"
             },
             {
-              "title": "DeepSeek-V3",
+              "title": "DeepSeek-Chat",
               "value": "deepseek-chat"
             },
             {
-              "title": "DeepSeek-R1",
+              "title": "DeepSeek-Reasoner",
               "value": "deepseek-reasoner"
+            },
+            {
+              "title": "DeepSeek-V3",
+              "value": "deepseek-v3"
+            },
+            {
+              "title": "DeepSeek-R1",
+              "value": "deepseek-r1"
             },
             {
               "title": "GPT-4o",
@@ -734,15 +822,19 @@
       "type": "dropdown",
       "data": [
         {
-          "title": "deepseek-chat",
+          "title": "DeepSeek-Chat",
           "value": "deepseek-chat"
         },
         {
-          "title": "deepseek-reasoner",
+          "title": "DeepSeek-Reasoner",
           "value": "deepseek-reasoner"
         },
         {
-          "title": "deepseek-r1",
+          "title": "DeepSeek-V3",
+          "value": "deepseek-v3"
+        },
+        {
+          "title": "DeepSeek-R1",
           "value": "deepseek-r1"
         },
         {
